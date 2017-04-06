@@ -10,5 +10,3 @@ MODULEMAP_FILE[sdk=iphoneos*]        = \
 $(SRCROOT)/CLDCrypto/iphoneos.modulemap
 MODULEMAP_FILE[sdk=iphonesimulator*] = \
 $(SRCROOT)/CLDCrypto/iphonesimulator.modulemap
-MODULEMAP_FILE[sdk=macosx*]          = \
-$(SRCROOT)/CLDCrypto/macosx.modulemap
